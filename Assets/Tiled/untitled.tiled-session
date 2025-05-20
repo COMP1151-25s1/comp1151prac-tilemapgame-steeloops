@@ -3,10 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "untitled.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "tinydungeontilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4.333333333333314,
+                "y": 187
+            }
+        }
     },
     "last.imagePath": "C:/Users/49170279/Documents/comp1151prac-tilemapgame-steeloops/Assets/Tiled/Tilemapgame/Tilemap",
     "map.fixedSize": false,
@@ -14,9 +26,13 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "tinydungeontilesheet.tsx",
+        "untitled.tmx"
     ],
     "project": "untitled.tiled-project",
     "recentFiles": [
+        "tinydungeontilesheet.tsx",
+        "untitled.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
